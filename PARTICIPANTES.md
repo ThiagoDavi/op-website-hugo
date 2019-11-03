@@ -134,6 +134,7 @@ Ao adicionar o seu nome, por favor observe:
 | Sávio S. Gusmão                | saviosg@outlook.com                   | https://github.com/saviosg            |
 | Tacio dos Santos Souza         | tacio.dev@gmail.com                   | https://github.com/taciossbr          |
 | Thiago Amadeu Nardi            | thnardi@gmail.com                     | https://github.com/thnardi            |
+| Thiago da Victória Nunes       | davictorianunes@gmail.com             | https://github.com/ThiagoDavi         |
 | Thiago Morette de Oliveira     | thiagomorette@gmail.com               | https://github.com/Morette            |
 | Tiago Dias Batista             | tiago@webdeleve.net                   | https://github.com/tigo-di            |
 | Tyrone Macedo Damasceno        | tyronedamasceno@gmail.com             | https://github.com/tyronedamasceno    |
